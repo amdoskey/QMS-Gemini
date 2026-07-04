@@ -1,0 +1,6 @@
+{
+  "name": "Turkish Embassy Erbil QMS",
+  "description": "Professional Queue Management System (QMS) for the Consular Services of the Turkish Embassy in Erbil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
